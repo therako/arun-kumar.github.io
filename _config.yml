@@ -1,0 +1,21 @@
+# Site settings
+title: Arun Kumar
+email: arun@arun-kumar.org
+description: The devops things which I have learnt
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://arun-kumar.org" # the base hostname & protocol for your site
+twitter_username: arunkumarram25
+github_username:  therako
+
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+more_vert:
+  option1:
+    name: Feature Toogles in CI
+    link: feature-toggles-in-continuous-integration.html
+
+# Build settings
+markdown: kramdown
