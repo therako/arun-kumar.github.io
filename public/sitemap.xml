@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:4000/blog/2015/09/20/feature-toggles-in-continuous-integration/</loc>
+    <loc>http://arun-kumar.org/blog/2015/09/20/feature-toggles-in-continuous-integration/</loc>
     <lastmod>2015-09-20T14:05:14+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/blog/archives/</loc>
+    <loc>http://arun-kumar.org/blog/archives/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/</loc>
+    <loc>http://arun-kumar.org/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/blog/categories/devops/</loc>
+    <loc>http://arun-kumar.org/blog/categories/devops/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/blog/categories/featuretoggle/</loc>
+    <loc>http://arun-kumar.org/blog/categories/featuretoggle/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/blog/categories/continuousintegration/</loc>
+    <loc>http://arun-kumar.org/blog/categories/continuousintegration/</loc>
   </url>
 </urlset>

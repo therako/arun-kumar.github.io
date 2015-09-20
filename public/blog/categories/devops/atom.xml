@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Devops | Arun kumar]]></title>
-  <link href="http://localhost:4000/blog/categories/devops/atom.xml" rel="self"/>
-  <link href="http://localhost:4000/"/>
-  <updated>2015-09-20T14:47:32+08:00</updated>
-  <id>http://localhost:4000/</id>
+  <link href="http://arun-kumar.org/blog/categories/devops/atom.xml" rel="self"/>
+  <link href="http://arun-kumar.org/"/>
+  <updated>2015-09-20T15:19:41+08:00</updated>
+  <id>http://arun-kumar.org/</id>
   <author>
     <name><![CDATA[Arunkumar Ramanathan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Feature Toggles in Continuous Integration]]></title>
-    <link href="http://localhost:4000/blog/2015/09/20/feature-toggles-in-continuous-integration/"/>
+    <link href="http://arun-kumar.org/blog/2015/09/20/feature-toggles-in-continuous-integration/"/>
     <updated>2015-09-20T14:05:14+08:00</updated>
-    <id>http://localhost:4000/blog/2015/09/20/feature-toggles-in-continuous-integration</id>
+    <id>http://arun-kumar.org/blog/2015/09/20/feature-toggles-in-continuous-integration</id>
     <content type="html"><![CDATA[<p>Hi all, this is a journey through how we did Continuous Integration in our project with Feature toggles.</p>
 
 <h3>Why Feature Toggle?</h3>
