@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+ruby '2.1.7'
+
 group :development do
   gem 'rake', '~> 10.0'
   gem 'jekyll', '~> 2.0'
@@ -16,3 +18,4 @@ end
 
 gem 'stringex', '~> 1.4.0'
 gem 'sinatra', '~> 1.4.2'
+gem 'puma'
