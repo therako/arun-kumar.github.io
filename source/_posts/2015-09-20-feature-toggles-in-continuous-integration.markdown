@@ -31,7 +31,7 @@ Here the entire routes are toggled. The FeatureFlag is a wrapper around Environm
 {% highlight ruby %}
  class FeatureFlag
    def self.allow_comments?
-     MomConfig['COMMENTS_SECTION_AVAILABLE'] == 'true'
+     Config['COMMENTS_SECTION_AVAILABLE'] == 'true'
    end
  end
 {% endhighlight %}
