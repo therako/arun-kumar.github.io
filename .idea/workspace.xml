@@ -1,282 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7ca526c-744a-4b18-80f3-6aa431ada2c5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CHANGELOG.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DevOps.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Procfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.ru" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/devops_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/backtick_code_block.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/blockquote.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/category_generator.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/code_block.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/config_tag.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/gist_tag.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/haml.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/image_tag.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/include_array.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/include_code.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/jsfiddle.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/octopress_filters.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/pullquote.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/pygments_code.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/raw.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/render_partial.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/titlecase.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/video_tag.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/blankButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/divider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/fullscreenButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/fullscreenButtonOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/muteButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/muteButtonOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/normalscreenButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/normalscreenButtonOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/pauseButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/pauseButtonOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/playButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/playButtonOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/timeSliderBuffer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/timeSliderCapLeft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/timeSliderCapRight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/timeSliderProgress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/timeSliderRail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/unmuteButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/controlbar/unmuteButtonOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/display/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/display/bufferIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/display/muteIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/display/playIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/dock/button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/glow.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/playlist/item.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/playlist/itemOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/playlist/sliderCapBottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/playlist/sliderCapTop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/playlist/sliderRail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/playlist/sliderThumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/sharing/embedIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/sharing/embedScreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/sharing/shareIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/glow/sharing/shareScreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/jwplayer/player.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/2015/09/20/feature-toggles-in-continuous-integration/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/archives/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/categories/continuousintegration/atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/categories/continuousintegration/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/categories/devops/atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/categories/devops/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/categories/featuretoggle/atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/blog/categories/featuretoggle/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/bird_32_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/bird_32_gray_fail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/code_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/dotted-border.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/feature_toggle_in_continuous_integration_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/feature_toggle_in_continuous_integration_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/line-tile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/noise.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/github.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/libs/jXHR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/libs/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/libs/swfobject-dynamic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/modernizr-2.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/octopress.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/pinboard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/javascripts/twitter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/stylesheets/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/_base.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/_partials.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_layout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_solarized.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_typography.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/base/_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/custom/_colors.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/custom/_fonts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/custom/_layout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/custom/_styles.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_archive.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_blog.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_header.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_navigation.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_sharing.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_sidebar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_syntax.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_base.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_delicious.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_googleplus.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/sidebar/_pinboard.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/plugins/_plugins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/screen.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/after_footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/archive_post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/article.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/asides/delicious.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/asides/github.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/asides/googleplus.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/asides/pinboard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/asides/recent_posts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/after_footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/asides/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/head.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/custom/navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/disqus.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/facebook_like.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/google_analytics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/google_plus_one.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/head.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/post/author.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/post/categories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/post/date.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/post/disqus_thread.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/post/sharing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_includes/twitter_sharing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/category_index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_layouts/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/2015-09-20-feature-toggles-in-continuous-integration.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/blankButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/divider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/fullscreenButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/fullscreenButtonOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/muteButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/muteButtonOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/normalscreenButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/normalscreenButtonOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/pauseButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/pauseButtonOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/playButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/playButtonOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderBuffer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderCapLeft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderCapRight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderProgress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/timeSliderRail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/unmuteButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/controlbar/unmuteButtonOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/bufferIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/muteIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/display/playIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/dock/button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/glow.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/item.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/itemOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderCapBottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderCapTop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderRail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/playlist/sliderThumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/embedIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/embedScreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/shareIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/glow/sharing/shareScreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/assets/jwplayer/player.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/archives/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/bird_32_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/bird_32_gray_fail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/code_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/dotted-border.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/feature_toggle_in_continuous_integration_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/feature_toggle_in_continuous_integration_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/line-tile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/noise.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/images/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/github.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/libs/jXHR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/libs/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/libs/swfobject-dynamic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/modernizr-2.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/octopress.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/pinboard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/javascripts/twitter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/stylesheets/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/RedCloth-4.2.9.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/blankslate-2.1.2.4.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/celluloid-0.16.0.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/chunky_png-1.3.4.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/classifier-reborn-2.0.3.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/coffee-script-2.4.1.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/coffee-script-source-1.9.1.1.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/colorator-0.1.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/compass-1.0.3.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/compass-core-1.0.3.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/compass-import-once-1.0.5.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/execjs-2.6.0.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/fast-stemmer-1.0.2.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/ffi-1.9.10.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/haml-4.0.7.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/hitimes-1.2.3.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/jekyll-2.4.0.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/jekyll-coffeescript-1.0.1.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/jekyll-gist-1.3.4.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/jekyll-paginate-1.1.0.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/jekyll-sass-converter-1.3.0.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/jekyll-sitemap-0.8.1.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/jekyll-watch-1.2.1.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/kramdown-1.5.0.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/liquid-2.6.2.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/listen-2.10.1.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/mercenary-0.3.5.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/multi_json-1.11.2.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/octopress-date-format-2.0.2.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/octopress-hooks-2.6.1.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/parslet-1.5.0.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/posix-spawn-0.3.11.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/puma-2.9.1.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/pygments.rb-0.6.3.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/rack-1.6.4.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/rack-protection-1.5.3.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/rake-10.4.2.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/rb-fsevent-0.9.6.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/rb-inotify-0.9.5.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/rdiscount-2.1.7.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/redcarpet-3.3.2.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/safe_yaml-1.0.4.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/sass-3.4.18.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/sass-globbing-1.0.0.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/sinatra-1.4.6.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/stringex-1.4.0.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/tilt-2.0.1.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/timers-4.0.4.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/toml-0.1.2.gem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/cache/yajl-ruby-1.2.1.gem" afterPath="" />
+    <list default="true" id="a145451a-4a35-4be7-9508-79d45e92f710" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="arun-kumar.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -294,7 +24,37 @@
     <favorites_list name="arun-kumar.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="2015-10-06-feature_toggle_in_continuous_integration.html.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/2015-10-06-feature_toggle_in_continuous_integration.html.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.1034484">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.60273975">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -307,8 +67,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/_includes/article.html" />
-        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/source/2015-10-06-feature_toggle_in_continuous_integration.html.markdown" />
+        <option value="$PROJECT_DIR$/config.rb" />
       </list>
     </option>
   </component>
@@ -347,7 +107,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -366,25 +125,77 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arun-kumar.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arun-kumar.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -409,6 +220,177 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JRubyCucumberRunConfigurationType" factoryName="JRuby Cucumber">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-Dforce.jruby.jit=true -Djruby.debug.fullTrace=true" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -430,12 +412,26 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -466,62 +462,58 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f7ca526c-744a-4b18-80f3-6aa431ada2c5" name="Default" comment="" />
-      <created>1443630167981</created>
+      <changelist id="a145451a-4a35-4be7-9508-79d45e92f710" name="Default" comment="" />
+      <created>1444090509002</created>
       <option name="number" value="Default" />
-      <updated>1443630167981</updated>
-      <workItem from="1443630169482" duration="904000" />
-      <workItem from="1443664169752" duration="17000" />
-      <workItem from="1443747933746" duration="184000" />
+      <updated>1444090509002</updated>
+      <workItem from="1444090510709" duration="653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1105000" />
+    <option name="totallyTimeSpent" value="653000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -531,58 +523,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.themes/classic/source/_layouts/post.html">
+    <entry file="file://$PROJECT_DIR$/source/2015-10-06-feature_toggle_in_continuous_integration.html.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state vertical-scroll-proportion="-3.1034484">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.themes/classic/source/_includes/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.themes/classic/source/_layouts/post.html">
+    <entry file="file://$PROJECT_DIR$/config.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.themes/classic/source/_includes/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.themes/classic/source/_includes/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13962767">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.themes/classic/source/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5784575">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.60273975">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding />
         </state>
       </provider>
